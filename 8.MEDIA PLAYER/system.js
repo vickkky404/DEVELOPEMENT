@@ -1,0 +1,1 @@
+alert("Welcome to my Own Music Player :3 ");
